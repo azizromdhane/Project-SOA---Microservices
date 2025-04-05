@@ -1,5 +1,5 @@
 # Final Project SOA & Microservices
-# Authors: Achraf BEN CHEIKH LADHARI & Nour Alislem SBAA
+# Author:Mohamed Aziz Romdhane
 This project is a demonstration of a microservices architecture using Python and Node.js, with Kafka and gRPC for inter-service communication. The project consists of three microservices:
 
 1. **Games Service** (Python)
@@ -93,7 +93,6 @@ The CI/CD pipeline in Jenkins includes the following steps:
 
 ## Contributors
 
-- [Achraf BEN CHEIKH LADHARI](https://github.com/Achraf-Ben-Cheikh-Ladhari)
-- [Nour ALISLEM SBAA](https://github.com/NourSbaa)
+- [Mohamed aziz romdhane]((https://github.com/azizromdhane))
 
 ### Tools: NodeJS, gRPC, Kafka, MongoDB, Python, Apollo, Swagger, Docker, Jenkins
